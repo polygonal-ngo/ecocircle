@@ -1,6 +1,6 @@
 # ecocircle-app
 
-The [Eco-Circle Erasmus+ project](http://www.ecocircleproject.com/) app developed with Godot.
+The [Eco-Circle Erasmus+ project](http://www.ecocircleproject.com/) app developed with Unity.
 
 ## Download:
 
