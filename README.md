@@ -1,3 +1,9 @@
-Eco-Circle Agents of Change Erasmus+ project game developed with Unity.
+# ecocircle-app
 
-You can play the game on AppStore and PlayStore.
+The [Eco-Circle Erasmus+ project](http://www.ecocircleproject.com/) app developed with Godot.
+
+## Download:
+
+[![playstore](/download_buttons/playstore.png)](https://play.google.com/store/apps/details?id=ngo.polygonal.ecocircle)
+
+[![appstore](/download_buttons/appstore.png)](https://apps.apple.com/us/app/eco-circle/id6475359011)
